@@ -24,7 +24,7 @@ a {
 	text-decoration: none;
 }
 .jumbotron {
-	background-image: url('http://obrazki.4ever.eu/data/download/jedzenie-i-picie/whisky-z-lodem-221417.jpg');
+	background-image: url('images/jumbotron.png');
 	background-size: cover;
 	width: 100%;
 	min-height: 400px;
